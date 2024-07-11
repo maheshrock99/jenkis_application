@@ -16,8 +16,8 @@
 		<app.runtime>4.6.1</app.runtime>
 		<mule.maven.plugin.version>4.1.0</mule.maven.plugin.version>
 	</properties>
-
-	<build>
+	
+<build>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -49,7 +49,6 @@
 			</plugin>
 		</plugins>
 	</build>
-	
 
 	<dependencies>
 		<dependency>
